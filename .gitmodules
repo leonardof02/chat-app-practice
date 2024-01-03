@@ -1,0 +1,6 @@
+[submodule "chat-server"]
+	path = chat-server
+	url = ./chat-server
+[submodule "react-chat"]
+	path = react-chat
+	url = ./react-chat
