@@ -1,6 +1,6 @@
 # Room Chat Simulator | Code practice
 
-![Example Desktop](./public/example-desktop.png)
+![Example Desktop](./example-desktop.png)
 
 This repository is for self-learn websockets tecnology with Node + Socket.io by building a room chat application.
 The tecnologies used in this project was **React.js** with **Vite**, **Styled Components** for the frontend and **NodeJS** and **Socket.io** for the backend.
